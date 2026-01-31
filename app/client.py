@@ -1,5 +1,5 @@
 import os
-from idlelib.replace import replace
+
 
 from aiogram import Router,F
 from aiogram.filters import Command,CommandStart,Command,StateFilter
