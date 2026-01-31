@@ -1,2 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Env
+.venv/
 .env
-database.db
+
+# DB
+*.db
